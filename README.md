@@ -1,1 +1,2 @@
 # TravelPlanner
+This project is a web application that leverages ASP.NET for the backend and Next.js for the frontend. The backend is built using Web API, following an N-tier architecture that promotes separation of concerns, making the application more maintainable and scalable. Additionally, SOLID principles have been implemented to enhance code quality and facilitate easier modifications and testing. The frontend, developed with Next.js, offers a dynamic and responsive user experience.
