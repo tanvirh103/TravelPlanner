@@ -1,0 +1,176 @@
+G:\TravelPlanner\TravelPlanner\bin\TravelPlanner.dll.config
+G:\TravelPlanner\TravelPlanner\bin\TravelPlanner.dll
+G:\TravelPlanner\TravelPlanner\bin\TravelPlanner.pdb
+G:\TravelPlanner\TravelPlanner\bin\roslyn\csc.exe
+G:\TravelPlanner\TravelPlanner\bin\roslyn\csc.exe.config
+G:\TravelPlanner\TravelPlanner\bin\roslyn\csc.rsp
+G:\TravelPlanner\TravelPlanner\bin\roslyn\csi.exe
+G:\TravelPlanner\TravelPlanner\bin\roslyn\csi.exe.config
+G:\TravelPlanner\TravelPlanner\bin\roslyn\csi.rsp
+G:\TravelPlanner\TravelPlanner\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\TravelPlanner\TravelPlanner\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\TravelPlanner\TravelPlanner\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\TravelPlanner\TravelPlanner\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\TravelPlanner\TravelPlanner\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\TravelPlanner\TravelPlanner\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\TravelPlanner\TravelPlanner\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\TravelPlanner\TravelPlanner\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\TravelPlanner\TravelPlanner\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\TravelPlanner\TravelPlanner\bin\roslyn\Microsoft.Managed.Core.targets
+G:\TravelPlanner\TravelPlanner\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\TravelPlanner\TravelPlanner\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\TravelPlanner\TravelPlanner\bin\roslyn\System.AppContext.dll
+G:\TravelPlanner\TravelPlanner\bin\roslyn\System.Collections.Immutable.dll
+G:\TravelPlanner\TravelPlanner\bin\roslyn\System.Console.dll
+G:\TravelPlanner\TravelPlanner\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\TravelPlanner\TravelPlanner\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\TravelPlanner\TravelPlanner\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\TravelPlanner\TravelPlanner\bin\roslyn\System.Globalization.Calendars.dll
+G:\TravelPlanner\TravelPlanner\bin\roslyn\System.IO.Compression.dll
+G:\TravelPlanner\TravelPlanner\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\TravelPlanner\TravelPlanner\bin\roslyn\System.IO.FileSystem.dll
+G:\TravelPlanner\TravelPlanner\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\TravelPlanner\TravelPlanner\bin\roslyn\System.Net.Http.dll
+G:\TravelPlanner\TravelPlanner\bin\roslyn\System.Net.Sockets.dll
+G:\TravelPlanner\TravelPlanner\bin\roslyn\System.Reflection.Metadata.dll
+G:\TravelPlanner\TravelPlanner\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\TravelPlanner\TravelPlanner\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\TravelPlanner\TravelPlanner\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\TravelPlanner\TravelPlanner\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\TravelPlanner\TravelPlanner\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\TravelPlanner\TravelPlanner\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\TravelPlanner\TravelPlanner\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\TravelPlanner\TravelPlanner\bin\roslyn\System.ValueTuple.dll
+G:\TravelPlanner\TravelPlanner\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\TravelPlanner\TravelPlanner\bin\roslyn\System.Xml.XmlDocument.dll
+G:\TravelPlanner\TravelPlanner\bin\roslyn\System.Xml.XPath.dll
+G:\TravelPlanner\TravelPlanner\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\TravelPlanner\TravelPlanner\bin\roslyn\vbc.exe
+G:\TravelPlanner\TravelPlanner\bin\roslyn\vbc.exe.config
+G:\TravelPlanner\TravelPlanner\bin\roslyn\vbc.rsp
+G:\TravelPlanner\TravelPlanner\bin\roslyn\VBCSCompiler.exe
+G:\TravelPlanner\TravelPlanner\bin\roslyn\VBCSCompiler.exe.config
+G:\TravelPlanner\TravelPlanner\bin\BLL.dll
+G:\TravelPlanner\TravelPlanner\bin\EntityFramework.dll
+G:\TravelPlanner\TravelPlanner\bin\EntityFramework.SqlServer.dll
+G:\TravelPlanner\TravelPlanner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\TravelPlanner\TravelPlanner\bin\Newtonsoft.Json.dll
+G:\TravelPlanner\TravelPlanner\bin\System.Net.Http.Formatting.dll
+G:\TravelPlanner\TravelPlanner\bin\System.Web.Http.dll
+G:\TravelPlanner\TravelPlanner\bin\System.Web.Http.WebHost.dll
+G:\TravelPlanner\TravelPlanner\bin\BLL.pdb
+G:\TravelPlanner\TravelPlanner\bin\EntityFramework.xml
+G:\TravelPlanner\TravelPlanner\bin\EntityFramework.SqlServer.xml
+G:\TravelPlanner\TravelPlanner\bin\Newtonsoft.Json.xml
+G:\TravelPlanner\TravelPlanner\bin\System.Net.Http.Formatting.xml
+G:\TravelPlanner\TravelPlanner\bin\System.Web.Http.xml
+G:\TravelPlanner\TravelPlanner\bin\System.Web.Http.WebHost.xml
+G:\TravelPlanner\TravelPlanner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\TravelPlanner\TravelPlanner\obj\Debug\TravelPlanner.csproj.AssemblyReference.cache
+G:\TravelPlanner\TravelPlanner\obj\Debug\TravelPlanner.csproj.CoreCompileInputs.cache
+G:\TravelPlanner\TravelPlanner\obj\Debug\TravelPl.D81E2CB7.Up2Date
+G:\TravelPlanner\TravelPlanner\obj\Debug\TravelPlanner.dll
+G:\TravelPlanner\TravelPlanner\obj\Debug\TravelPlanner.pdb
+G:\TravelPlanner\TravelPlanner\bin\AutoMapper.dll
+G:\TravelPlanner\TravelPlanner\bin\DAL.dll
+G:\TravelPlanner\TravelPlanner\bin\AutoMapper.xml
+G:\TravelPlanner\TravelPlanner\bin\DAL.pdb
+G:\TravelPlanner\TravelPlanner\bin\DAL.dll.config
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\TravelPlanner.dll.config
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\TravelPlanner.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\TravelPlanner.pdb
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\csc.exe
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\csc.exe.config
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\csc.rsp
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\csi.exe
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\csi.exe.config
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\csi.rsp
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\Microsoft.Managed.Core.targets
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\System.AppContext.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\System.Collections.Immutable.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\System.Console.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\System.Globalization.Calendars.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\System.IO.Compression.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\System.IO.FileSystem.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\System.Net.Http.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\System.Net.Sockets.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\System.Reflection.Metadata.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\System.ValueTuple.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\System.Xml.XmlDocument.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\System.Xml.XPath.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\vbc.exe
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\vbc.exe.config
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\vbc.rsp
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\VBCSCompiler.exe
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\roslyn\VBCSCompiler.exe.config
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\BLL.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\EntityFramework.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\EntityFramework.SqlServer.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\Newtonsoft.Json.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\System.Net.Http.Formatting.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\System.Web.Http.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\System.Web.Http.WebHost.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\AutoMapper.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\DAL.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\BLL.pdb
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\EntityFramework.xml
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\EntityFramework.SqlServer.xml
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\Newtonsoft.Json.xml
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\System.Net.Http.Formatting.xml
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\System.Web.Http.xml
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\System.Web.Http.WebHost.xml
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\AutoMapper.xml
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\DAL.pdb
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\DAL.dll.config
+E:\VS CODE\TravelPlanner\TravelPlanner\obj\Debug\TravelPlanner.csproj.AssemblyReference.cache
+E:\VS CODE\TravelPlanner\TravelPlanner\obj\Debug\TravelPlanner.csproj.CoreCompileInputs.cache
+E:\VS CODE\TravelPlanner\TravelPlanner\obj\Debug\TravelPl.D81E2CB7.Up2Date
+E:\VS CODE\TravelPlanner\TravelPlanner\obj\Debug\TravelPlanner.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\obj\Debug\TravelPlanner.pdb
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\Newtonsoft.Json.Bson.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\System.Buffers.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\System.Memory.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\System.Numerics.Vectors.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\System.Threading.Tasks.Extensions.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\System.Web.Cors.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\System.Web.Http.Cors.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\Newtonsoft.Json.Bson.pdb
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\Newtonsoft.Json.Bson.xml
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\System.Buffers.xml
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\System.Memory.xml
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\System.Numerics.Vectors.xml
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\System.Threading.Tasks.Extensions.xml
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\System.Web.Http.Cors.xml
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\BouncyCastle.Cryptography.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\itextsharp.dll
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\BouncyCastle.Cryptography.xml
+E:\VS CODE\TravelPlanner\TravelPlanner\bin\itextsharp.xml

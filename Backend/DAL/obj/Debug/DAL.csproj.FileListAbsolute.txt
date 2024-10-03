@@ -1,0 +1,26 @@
+G:\TravelPlanner\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+G:\TravelPlanner\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\TravelPlanner\DAL\bin\Debug\DAL.dll.config
+G:\TravelPlanner\DAL\bin\Debug\DAL.dll
+G:\TravelPlanner\DAL\bin\Debug\DAL.pdb
+G:\TravelPlanner\DAL\bin\Debug\EntityFramework.dll
+G:\TravelPlanner\DAL\bin\Debug\EntityFramework.SqlServer.dll
+G:\TravelPlanner\DAL\bin\Debug\EntityFramework.xml
+G:\TravelPlanner\DAL\bin\Debug\EntityFramework.SqlServer.xml
+G:\TravelPlanner\DAL\obj\Debug\DAL.csproj.Up2Date
+G:\TravelPlanner\DAL\obj\Debug\DAL.dll
+G:\TravelPlanner\DAL\obj\Debug\DAL.pdb
+E:\VS CODE\TravelPlanner\DAL\bin\Debug\DAL.dll.config
+E:\VS CODE\TravelPlanner\DAL\bin\Debug\DAL.dll
+E:\VS CODE\TravelPlanner\DAL\bin\Debug\DAL.pdb
+E:\VS CODE\TravelPlanner\DAL\bin\Debug\EntityFramework.dll
+E:\VS CODE\TravelPlanner\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\VS CODE\TravelPlanner\DAL\bin\Debug\EntityFramework.xml
+E:\VS CODE\TravelPlanner\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\VS CODE\TravelPlanner\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\VS CODE\TravelPlanner\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\VS CODE\TravelPlanner\DAL\obj\Debug\DAL.csproj.Up2Date
+E:\VS CODE\TravelPlanner\DAL\obj\Debug\DAL.dll
+E:\VS CODE\TravelPlanner\DAL\obj\Debug\DAL.pdb
+E:\VS CODE\TravelPlanner\DAL\obj\Debug\DAL.Migrations.initdatabase.resources
+E:\VS CODE\TravelPlanner\DAL\obj\Debug\DAL.csproj.GenerateResource.cache

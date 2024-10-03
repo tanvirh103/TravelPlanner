@@ -1,0 +1,28 @@
+G:\TravelPlanner\BLL\bin\Debug\BLL.dll
+G:\TravelPlanner\BLL\bin\Debug\BLL.pdb
+G:\TravelPlanner\BLL\bin\Debug\AutoMapper.dll
+G:\TravelPlanner\BLL\bin\Debug\DAL.dll
+G:\TravelPlanner\BLL\bin\Debug\EntityFramework.dll
+G:\TravelPlanner\BLL\bin\Debug\DAL.pdb
+G:\TravelPlanner\BLL\bin\Debug\DAL.dll.config
+G:\TravelPlanner\BLL\bin\Debug\AutoMapper.xml
+G:\TravelPlanner\BLL\bin\Debug\EntityFramework.xml
+G:\TravelPlanner\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+G:\TravelPlanner\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+G:\TravelPlanner\BLL\obj\Debug\BLL.csproj.Up2Date
+G:\TravelPlanner\BLL\obj\Debug\BLL.dll
+G:\TravelPlanner\BLL\obj\Debug\BLL.pdb
+E:\VS CODE\TravelPlanner\BLL\bin\Debug\BLL.dll
+E:\VS CODE\TravelPlanner\BLL\bin\Debug\BLL.pdb
+E:\VS CODE\TravelPlanner\BLL\bin\Debug\AutoMapper.dll
+E:\VS CODE\TravelPlanner\BLL\bin\Debug\DAL.dll
+E:\VS CODE\TravelPlanner\BLL\bin\Debug\EntityFramework.dll
+E:\VS CODE\TravelPlanner\BLL\bin\Debug\DAL.pdb
+E:\VS CODE\TravelPlanner\BLL\bin\Debug\DAL.dll.config
+E:\VS CODE\TravelPlanner\BLL\bin\Debug\AutoMapper.xml
+E:\VS CODE\TravelPlanner\BLL\bin\Debug\EntityFramework.xml
+E:\VS CODE\TravelPlanner\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\VS CODE\TravelPlanner\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\VS CODE\TravelPlanner\BLL\obj\Debug\BLL.csproj.Up2Date
+E:\VS CODE\TravelPlanner\BLL\obj\Debug\BLL.dll
+E:\VS CODE\TravelPlanner\BLL\obj\Debug\BLL.pdb

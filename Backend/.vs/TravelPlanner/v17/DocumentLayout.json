@@ -1,0 +1,614 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\TravelPlanner\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C074E2A-6ED5-4D5C-B283-BDD16B2C9FE9}|TravelPlanner\\TravelPlanner.csproj|f:\\travelplanner\\backend\\travelplanner\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C074E2A-6ED5-4D5C-B283-BDD16B2C9FE9}|TravelPlanner\\TravelPlanner.csproj|solutionrelative:travelplanner\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C074E2A-6ED5-4D5C-B283-BDD16B2C9FE9}|TravelPlanner\\TravelPlanner.csproj|F:\\TravelPlanner\\Backend\\travelplanner\\controllers\\tripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C074E2A-6ED5-4D5C-B283-BDD16B2C9FE9}|TravelPlanner\\TravelPlanner.csproj|solutionrelative:travelplanner\\controllers\\tripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25849001-E035-4816-911D-E412E182FF31}|DAL\\DAL.csproj|F:\\TravelPlanner\\Backend\\dal\\repos\\triprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25849001-E035-4816-911D-E412E182FF31}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\triprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25849001-E035-4816-911D-E412E182FF31}|DAL\\DAL.csproj|F:\\TravelPlanner\\Backend\\dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25849001-E035-4816-911D-E412E182FF31}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC28A7F-3D44-4914-80B3-2C855F022423}|BLL\\BLL.csproj|F:\\TravelPlanner\\Backend\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC28A7F-3D44-4914-80B3-2C855F022423}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC28A7F-3D44-4914-80B3-2C855F022423}|BLL\\BLL.csproj|F:\\TravelPlanner\\Backend\\bll\\services\\tripshareservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC28A7F-3D44-4914-80B3-2C855F022423}|BLL\\BLL.csproj|solutionrelative:bll\\services\\tripshareservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC28A7F-3D44-4914-80B3-2C855F022423}|BLL\\BLL.csproj|F:\\TravelPlanner\\Backend\\bll\\services\\tripservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC28A7F-3D44-4914-80B3-2C855F022423}|BLL\\BLL.csproj|solutionrelative:bll\\services\\tripservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC28A7F-3D44-4914-80B3-2C855F022423}|BLL\\BLL.csproj|F:\\TravelPlanner\\Backend\\bll\\services\\packingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC28A7F-3D44-4914-80B3-2C855F022423}|BLL\\BLL.csproj|solutionrelative:bll\\services\\packingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC28A7F-3D44-4914-80B3-2C855F022423}|BLL\\BLL.csproj|F:\\TravelPlanner\\Backend\\bll\\services\\budgetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC28A7F-3D44-4914-80B3-2C855F022423}|BLL\\BLL.csproj|solutionrelative:bll\\services\\budgetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC28A7F-3D44-4914-80B3-2C855F022423}|BLL\\BLL.csproj|F:\\TravelPlanner\\Backend\\bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC28A7F-3D44-4914-80B3-2C855F022423}|BLL\\BLL.csproj|solutionrelative:bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC28A7F-3D44-4914-80B3-2C855F022423}|BLL\\BLL.csproj|F:\\TravelPlanner\\Backend\\bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC28A7F-3D44-4914-80B3-2C855F022423}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC28A7F-3D44-4914-80B3-2C855F022423}|BLL\\BLL.csproj|F:\\TravelPlanner\\Backend\\bll\\dtos\\tripsharedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC28A7F-3D44-4914-80B3-2C855F022423}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\tripsharedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC28A7F-3D44-4914-80B3-2C855F022423}|BLL\\BLL.csproj|F:\\TravelPlanner\\Backend\\bll\\dtos\\tripdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC28A7F-3D44-4914-80B3-2C855F022423}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\tripdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC28A7F-3D44-4914-80B3-2C855F022423}|BLL\\BLL.csproj|F:\\TravelPlanner\\Backend\\bll\\dtos\\packingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC28A7F-3D44-4914-80B3-2C855F022423}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\packingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC28A7F-3D44-4914-80B3-2C855F022423}|BLL\\BLL.csproj|F:\\TravelPlanner\\Backend\\bll\\dtos\\budgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC28A7F-3D44-4914-80B3-2C855F022423}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\budgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC28A7F-3D44-4914-80B3-2C855F022423}|BLL\\BLL.csproj|F:\\TravelPlanner\\Backend\\bll\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC28A7F-3D44-4914-80B3-2C855F022423}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C074E2A-6ED5-4D5C-B283-BDD16B2C9FE9}|TravelPlanner\\TravelPlanner.csproj|F:\\TravelPlanner\\Backend\\travelplanner\\controllers\\tripsharecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C074E2A-6ED5-4D5C-B283-BDD16B2C9FE9}|TravelPlanner\\TravelPlanner.csproj|solutionrelative:travelplanner\\controllers\\tripsharecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C074E2A-6ED5-4D5C-B283-BDD16B2C9FE9}|TravelPlanner\\TravelPlanner.csproj|F:\\TravelPlanner\\Backend\\travelplanner\\controllers\\packingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C074E2A-6ED5-4D5C-B283-BDD16B2C9FE9}|TravelPlanner\\TravelPlanner.csproj|solutionrelative:travelplanner\\controllers\\packingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C074E2A-6ED5-4D5C-B283-BDD16B2C9FE9}|TravelPlanner\\TravelPlanner.csproj|F:\\TravelPlanner\\Backend\\travelplanner\\controllers\\budgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C074E2A-6ED5-4D5C-B283-BDD16B2C9FE9}|TravelPlanner\\TravelPlanner.csproj|solutionrelative:travelplanner\\controllers\\budgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25849001-E035-4816-911D-E412E182FF31}|DAL\\DAL.csproj|F:\\TravelPlanner\\Backend\\dal\\repos\\budgetrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25849001-E035-4816-911D-E412E182FF31}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\budgetrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25849001-E035-4816-911D-E412E182FF31}|DAL\\DAL.csproj|F:\\TravelPlanner\\Backend\\dal\\ef\\tablemodels\\budgetinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25849001-E035-4816-911D-E412E182FF31}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tablemodels\\budgetinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25849001-E035-4816-911D-E412E182FF31}|DAL\\DAL.csproj|F:\\TravelPlanner\\Backend\\dal\\ef\\tablemodels\\tripshareinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25849001-E035-4816-911D-E412E182FF31}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tablemodels\\tripshareinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25849001-E035-4816-911D-E412E182FF31}|DAL\\DAL.csproj|F:\\TravelPlanner\\Backend\\dal\\ef\\tablemodels\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25849001-E035-4816-911D-E412E182FF31}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tablemodels\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25849001-E035-4816-911D-E412E182FF31}|DAL\\DAL.csproj|F:\\TravelPlanner\\Backend\\dal\\ef\\tablemodels\\tripinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25849001-E035-4816-911D-E412E182FF31}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tablemodels\\tripinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25849001-E035-4816-911D-E412E182FF31}|DAL\\DAL.csproj|F:\\TravelPlanner\\Backend\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25849001-E035-4816-911D-E412E182FF31}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25849001-E035-4816-911D-E412E182FF31}|DAL\\DAL.csproj|F:\\TravelPlanner\\Backend\\dal\\repos\\packingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25849001-E035-4816-911D-E412E182FF31}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\packingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25849001-E035-4816-911D-E412E182FF31}|DAL\\DAL.csproj|F:\\TravelPlanner\\Backend\\dal\\interfaces\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25849001-E035-4816-911D-E412E182FF31}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25849001-E035-4816-911D-E412E182FF31}|DAL\\DAL.csproj|F:\\TravelPlanner\\Backend\\dal\\ef\\tpcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25849001-E035-4816-911D-E412E182FF31}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tpcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25849001-E035-4816-911D-E412E182FF31}|DAL\\DAL.csproj|F:\\TravelPlanner\\Backend\\dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25849001-E035-4816-911D-E412E182FF31}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25849001-E035-4816-911D-E412E182FF31}|DAL\\DAL.csproj|F:\\TravelPlanner\\Backend\\dal\\repos\\tripsharerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25849001-E035-4816-911D-E412E182FF31}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\tripsharerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C074E2A-6ED5-4D5C-B283-BDD16B2C9FE9}|TravelPlanner\\TravelPlanner.csproj|F:\\TravelPlanner\\Backend\\travelplanner\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C074E2A-6ED5-4D5C-B283-BDD16B2C9FE9}|TravelPlanner\\TravelPlanner.csproj|solutionrelative:travelplanner\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25849001-E035-4816-911D-E412E182FF31}|DAL\\DAL.csproj|F:\\TravelPlanner\\Backend\\dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25849001-E035-4816-911D-E412E182FF31}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25849001-E035-4816-911D-E412E182FF31}|DAL\\DAL.csproj|F:\\TravelPlanner\\Backend\\dal\\migrations\\202409282259255_initdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25849001-E035-4816-911D-E412E182FF31}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202409282259255_initdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25849001-E035-4816-911D-E412E182FF31}|DAL\\DAL.csproj|F:\\TravelPlanner\\Backend\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25849001-E035-4816-911D-E412E182FF31}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25849001-E035-4816-911D-E412E182FF31}|DAL\\DAL.csproj|F:\\TravelPlanner\\Backend\\dal\\ef\\tablemodels\\packinginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25849001-E035-4816-911D-E412E182FF31}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tablemodels\\packinginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C074E2A-6ED5-4D5C-B283-BDD16B2C9FE9}|TravelPlanner\\TravelPlanner.csproj|F:\\TravelPlanner\\Backend\\travelplanner\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2C074E2A-6ED5-4D5C-B283-BDD16B2C9FE9}|TravelPlanner\\TravelPlanner.csproj|solutionrelative:travelplanner\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC28A7F-3D44-4914-80B3-2C855F022423}|BLL\\BLL.csproj|F:\\TravelPlanner\\Backend\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC28A7F-3D44-4914-80B3-2C855F022423}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\BLL\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\UserDTO.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\BLL\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\UserDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:34:05.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\BLL\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\AuthService.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\BLL\\Services\\AuthService.cs",
+              "RelativeToolTip": "BLL\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwBcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T18:33:17.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TripRepo.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\DAL\\Repos\\TripRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\TripRepo.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\DAL\\Repos\\TripRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\TripRepo.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wBYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:27:16.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PackingDTO.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\BLL\\DTOs\\PackingDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\PackingDTO.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\BLL\\DTOs\\PackingDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\PackingDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:34:40.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BudgetService.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\BLL\\Services\\BudgetService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\BudgetService.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\BLL\\Services\\BudgetService.cs",
+              "RelativeToolTip": "BLL\\Services\\BudgetService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwBkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:36:52.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TripController.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\TravelPlanner\\Controllers\\TripController.cs",
+              "RelativeDocumentMoniker": "TravelPlanner\\Controllers\\TripController.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\TravelPlanner\\Controllers\\TripController.cs",
+              "RelativeToolTip": "TravelPlanner\\Controllers\\TripController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:42:32.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TripDTO.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\BLL\\DTOs\\TripDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\TripDTO.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\BLL\\DTOs\\TripDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\TripDTO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:34:54.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PackingService.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\BLL\\Services\\PackingService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\PackingService.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\BLL\\Services\\PackingService.cs",
+              "RelativeToolTip": "BLL\\Services\\PackingService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwBkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:37:13.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TripService.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\BLL\\Services\\TripService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\TripService.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\BLL\\Services\\TripService.cs",
+              "RelativeToolTip": "BLL\\Services\\TripService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:37:29.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TripShareService.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\BLL\\Services\\TripShareService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\TripShareService.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\BLL\\Services\\TripShareService.cs",
+              "RelativeToolTip": "BLL\\Services\\TripShareService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:37:50.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\UserService.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "BLL\\Services\\UserService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:38:12.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\TravelPlanner\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "TravelPlanner\\Controllers\\UserController.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\TravelPlanner\\Controllers\\UserController.cs",
+              "RelativeToolTip": "TravelPlanner\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:42:09.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TripShareDTO.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\BLL\\DTOs\\TripShareDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\TripShareDTO.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\BLL\\DTOs\\TripShareDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\TripShareDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:35:12.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\DAL\\Repos\\UserRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\UserRepo.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\DAL\\Repos\\UserRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\UserRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:26:29.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BudgetDTO.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\BLL\\DTOs\\BudgetDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\BudgetDTO.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\BLL\\DTOs\\BudgetDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\BudgetDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:34:24.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthDTO.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\BLL\\DTOs\\AuthDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\AuthDTO.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\BLL\\DTOs\\AuthDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\AuthDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T18:46:23.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TripShareController.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\TravelPlanner\\Controllers\\TripShareController.cs",
+              "RelativeDocumentMoniker": "TravelPlanner\\Controllers\\TripShareController.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\TravelPlanner\\Controllers\\TripShareController.cs",
+              "RelativeToolTip": "TravelPlanner\\Controllers\\TripShareController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:42:57.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PackingController.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\TravelPlanner\\Controllers\\PackingController.cs",
+              "RelativeDocumentMoniker": "TravelPlanner\\Controllers\\PackingController.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\TravelPlanner\\Controllers\\PackingController.cs",
+              "RelativeToolTip": "TravelPlanner\\Controllers\\PackingController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwEkAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:43:14.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BudgetController.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\TravelPlanner\\Controllers\\BudgetController.cs",
+              "RelativeDocumentMoniker": "TravelPlanner\\Controllers\\BudgetController.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\TravelPlanner\\Controllers\\BudgetController.cs",
+              "RelativeToolTip": "TravelPlanner\\Controllers\\BudgetController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAcwAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:43:31.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BudgetRepo.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\DAL\\Repos\\BudgetRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\BudgetRepo.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\DAL\\Repos\\BudgetRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\BudgetRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:28:01.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BudgetInfo.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\DAL\\EF\\TableModels\\BudgetInfo.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\TableModels\\BudgetInfo.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\DAL\\EF\\TableModels\\BudgetInfo.cs",
+              "RelativeToolTip": "DAL\\EF\\TableModels\\BudgetInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:22:27.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TripShareInfo.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\DAL\\EF\\TableModels\\TripShareInfo.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\TableModels\\TripShareInfo.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\DAL\\EF\\TableModels\\TripShareInfo.cs",
+              "RelativeToolTip": "DAL\\EF\\TableModels\\TripShareInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:21:29.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\DAL\\EF\\TableModels\\UserInfo.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\TableModels\\UserInfo.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\DAL\\EF\\TableModels\\UserInfo.cs",
+              "RelativeToolTip": "DAL\\EF\\TableModels\\UserInfo.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:21:05.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TripInfo.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\DAL\\EF\\TableModels\\TripInfo.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\TableModels\\TripInfo.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\DAL\\EF\\TableModels\\TripInfo.cs",
+              "RelativeToolTip": "DAL\\EF\\TableModels\\TripInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:21:45.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DataAccessFactory.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\DAL\\DataAccessFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\DAL\\DataAccessFactory.cs",
+              "RelativeToolTip": "DAL\\DataAccessFactory.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:15:20.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PackingRepo.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\DAL\\Repos\\PackingRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\PackingRepo.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\DAL\\Repos\\PackingRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\PackingRepo.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:27:45.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IAuth.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\DAL\\Interfaces\\IAuth.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IAuth.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\DAL\\Interfaces\\IAuth.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IAuth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T18:30:35.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TPContext.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\DAL\\EF\\TPContext.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\TPContext.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\DAL\\EF\\TPContext.cs",
+              "RelativeToolTip": "DAL\\EF\\TPContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:17:45.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepo.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:18:34.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TripShareRepo.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\DAL\\Repos\\TripShareRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\TripShareRepo.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\DAL\\Repos\\TripShareRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\TripShareRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:27:02.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\TravelPlanner\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "TravelPlanner\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\TravelPlanner\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "TravelPlanner\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:27:13.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\DAL\\Repos\\Repo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\Repo.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\DAL\\Repos\\Repo.cs",
+              "RelativeToolTip": "DAL\\Repos\\Repo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:27:28.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:58:55.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "202409282259255_initdatabase.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\DAL\\Migrations\\202409282259255_initdatabase.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202409282259255_initdatabase.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\DAL\\Migrations\\202409282259255_initdatabase.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202409282259255_initdatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:59:39.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PackingInfo.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\DAL\\EF\\TableModels\\PackingInfo.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\TableModels\\PackingInfo.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\DAL\\EF\\TableModels\\PackingInfo.cs",
+              "RelativeToolTip": "DAL\\EF\\TableModels\\PackingInfo.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:22:04.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Web.config",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\TravelPlanner\\Web.config",
+              "RelativeDocumentMoniker": "TravelPlanner\\Web.config",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\TravelPlanner\\Web.config",
+              "RelativeToolTip": "TravelPlanner\\Web.config",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAD4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-28T01:13:25.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\TravelPlanner\\Backend\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "F:\\TravelPlanner\\Backend\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:15:07.084Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
