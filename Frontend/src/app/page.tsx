@@ -44,10 +44,10 @@ export default function Home() {
   async function PostData(){
     
     try{
-    const formData=new URLSearchParams();
+    const formData=new FormData();
     formData.append("Email",Email);
     formData.append("Password",Password);
-    const res=await axios.post("https://localhost:44315/User/Login",formData,{headers: {'Content-Type': 'application/x-www-form-urlencoded'}});
+    const res=await axios.post("https://localhost:44315/User/Login",formData,{headers: {'Content-Type': 'application/json'}});
     const data=res.data
     console.log(data);
     if(data==true){

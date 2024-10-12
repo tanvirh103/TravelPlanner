@@ -27,12 +27,13 @@ export default function CreateTrip(){
   }
     async function PostData(){
         try{
-            const formData=new URLSearchParams();
+            const formData=new FormData();
             formData.append("Destination",Desitination);
             formData.append("StartDate",StartDate);
             formData.append("EndDate",EndDate);
             formData.append("Itinerary",Itinerary);
-            const res=await axios.post("https://localhost:44315/Trip/Create",formData,{headers: {'Content-Type': 'application/x-www-form-urlencoded'}});
+            formData.append("UserId",UserId);
+            const res=await axios.post("https://localhost:44315/Trip/Create",formData,{headers: {'Content-Type': 'application/json'}});
             const data=res.data;
             console.log(data);
         }catch(Error){
